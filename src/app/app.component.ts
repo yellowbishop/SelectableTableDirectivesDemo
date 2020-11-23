@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SelectableTableAPI } from 'ad-selectable-table-directives/public-api';
+import { SelectableTableAPI } from 'ad-selectable-table-directives';
 
 
 @Component({
