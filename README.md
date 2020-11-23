@@ -5,3 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # INFORMATION
 
 Basic example of ad-selectable-table-directives
+
+# Instalation
+
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install ad-selectable-table-directives.
+
+```bash
+npm install ad-selectable-table-directives
+```
