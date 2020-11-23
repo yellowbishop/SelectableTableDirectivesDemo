@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+.selected {
+  background-color: blue !important;
+}
+
+.selectable {
+  background-color: rgb(161, 212, 194);
+}
+
+.rowSelectable {
+  background-color: rgb(219, 238, 113);
+}
+
+.rowSelected {
+  background-color: rgb(255, 0, 0);
+}
+
+.rowParcialSelected {
+
+  background-color: rgb(230, 165, 165) !important;
+}
+
+.columnSelectable {
+  background-color: rgb(219, 238, 113);
+}
+
+.columnSelected {
+  background-color: rgb(255, 0, 0);
+}
+
+.columnParcialSelected {
+
+  background-color: rgb(230, 165, 165) !important;
+}
